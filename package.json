@@ -1,0 +1,21 @@
+{
+	"name": "OneNote",
+	"version": "0.0.1",
+	"description": "OneNote Electron Wrapper",
+	"main": "main.js",
+	"scripts": {
+		"start": "electron main.js"
+	},
+	"keywords": [
+		"Electron",
+		"OneNote"
+	],
+	"author": "GitHub",
+	"license": "BSD-2",
+	"dependencies": {
+		"configstore": "^4.0.0"
+	},
+	"devDependencies": {
+		"electron": "^4.0.5"
+	}
+}
